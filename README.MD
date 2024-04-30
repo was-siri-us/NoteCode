@@ -38,8 +38,8 @@ NoteCode is a versatile tool designed to simplify note-taking during programming
 <h1>Welcome to NoteCode!</h1>
   
 <!-- Insert code snippet -->
-\#main.java.code-block.java
-
+#main.java.code-block.java
+```
 
 
 
