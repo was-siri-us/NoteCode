@@ -43,8 +43,7 @@ NoteCode is a versatile tool designed to simplify note-taking during programming
 
 
 
-##Contributing
+## Contributing
 If you encounter any issues or have suggestions for improvements, feel free to contribute by submitting a pull request or opening an issue on GitHub.
 
-##License
-This project is licensed under the MIT License.
+
