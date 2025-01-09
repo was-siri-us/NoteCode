@@ -1,6 +1,6 @@
 # NoteCode
 
-NoteCode is a versatile tool designed to simplify note-taking during programming classes. It seamlessly integrates code snippets into HTML documents, providing a convenient way to organize and reference code examples within your notes.
+Code Snippet for taking Programming notes in HTML
 
 ## Installation
 
